@@ -1,6 +1,7 @@
 # agrica
 
-Contributing
+Contributing:
+
 When contributing to this repository, please first you create a file mention your intro, or email and write any two PHP loop program in this repository.
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
